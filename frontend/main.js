@@ -45,6 +45,7 @@ submitbutton.addEventListener("click", async function () {
 
         loadingwheel.className = "loadingwheel"
         loadingwheel.setAttribute("style", paddingtext)
+        loadingwheel.setAttribute("height", imgheight)
         loadingwheel.style.display = "inline-block"
 
         const canvas = document.createElement("canvas")

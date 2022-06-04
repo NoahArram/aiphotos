@@ -1,0 +1,24 @@
+.uneditedimg{
+    max-width: 800px;
+    max-height: 800px;
+}
+.editedimg{
+    max-width: 10000px;
+    max-height: 1000px;
+    padding-left: 30px;
+}
+.imguploadtxt{
+    font-size: 25px;
+}
+.buttonimg{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.loadingwheel{
+    padding-left: 0px;
+    padding-top: 0px;
+}
+.disclaimer{
+    display:none
+}
